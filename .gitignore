@@ -1,0 +1,11 @@
+# Windows files
+Thumbs.db
+Desktop.ini
+.BIN/
+
+# PowerShell log files
+*.log
+
+# Editor files
+.vscode/
+.idea/
