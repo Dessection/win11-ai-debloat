@@ -72,15 +72,15 @@ Disables newly added and legacy diagnostic tasks, including:
 Open **PowerShell** or **Windows Terminal** as Administrator and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/win11-ai-debloat/main/debloat.ps1 | iex
+irm https://raw.githubusercontent.com/Dessection/win11-ai-debloat/main/debloat.ps1 | iex
 ```
-*(Replace `YOUR_USERNAME` with your GitHub username once published).*
+*(Replace `Dessection` with your GitHub username once published).*
 
 ### Option 2: Clone and Run Locally
 
 1. Clone the repository:
    ```powershell
-   git clone https://github.com/YOUR_USERNAME/win11-ai-debloat.git
+   git clone https://github.com/Dessection/win11-ai-debloat.git
    cd win11-ai-debloat
    ```
 2. Run the script:
@@ -119,3 +119,4 @@ All modifications use standard Microsoft Group Policy keys and service startup p
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE) - free to use, modify, and distribute.
+
